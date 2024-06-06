@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="../../purl.org/rss/1.0/modules/content/default.htm"
+	xmlns:dc="../../purl.org/dc/elements/1.1/default.htm"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="../../purl.org/rss/1.0/modules/syndication/default.htm"
+		>
+<channel>
+	<title>评论：中国几何设计与计算贡献奖获得者金通洸教授简介</title>
+	<atom:link href="@feed=rss2&page_id=583" rel="self" type="application/rss+xml" />
+	<link>../gdc</link>
+	<description>中国工业与应用数学学会几何设计与计算专业委员会</description>
+	<lastBuildDate>Sun, 09 May 2021 15:11:22 +0800</lastBuildDate>
+	<generator>../../wordpress.org/@v=2.8.4</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>来自：CSIAM &#187; 第五届几何设计与计算学术会议在广州顺利召开</title>
+		<link>@page_id=583&cpage=1#comment-6</link>
+		<dc:creator>CSIAM &#187; 第五届几何设计与计算学术会议在广州顺利召开</dc:creator>
+		<pubDate>Fri, 25 Nov 2011 03:16:53 +0000</pubDate>
+		<guid isPermaLink="false">../../cg.cs.tsinghua.edu.cn/gdc/@page_id=583#comment-6</guid>
+		<description>[...]       从GDC 2007起，大会设立了中国几何设计与计算贡献奖，以表彰和奖励长期从事几何设计与计算研究并对几何设计与计算的发展做出突出贡献的学者。经几何设计与计算专委会委员投票，本届获得此项荣誉的是浙江大学的金通洸先生和复旦大学的华宣积先生。在此谨向两位先生表示热烈祝贺！ [...]</description>
+		<content:encoded><![CDATA[<p>[...]       从GDC 2007起，大会设立了中国几何设计与计算贡献奖，以表彰和奖励长期从事几何设计与计算研究并对几何设计与计算的发展做出突出贡献的学者。经几何设计与计算专委会委员投票，本届获得此项荣誉的是浙江大学的金通洸先生和复旦大学的华宣积先生。在此谨向两位先生表示热烈祝贺！ [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
